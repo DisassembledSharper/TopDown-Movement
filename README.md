@@ -21,4 +21,4 @@ Atenção: o projeto foi feito na Unity versão 2019.4.16f1
 ![alt](https://github.com/Neyuriki/TopDown-Movement/blob/main/Assets/Sprites/Player/Player%20run%20left.png)
 
 ### 🤔 Posso usar o projeto?
-O projeto é livre para qualquer tipo de uso.
+O projeto é livre para todos e para qualquer tipo de uso.
