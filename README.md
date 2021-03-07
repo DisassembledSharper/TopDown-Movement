@@ -10,7 +10,8 @@ Ele só possui o Player e suas devidas animações configuradas para executar qu
 
 Atenção: o projeto foi feito na Unity versão 2019.4.16f1
 
-#### Sprites retirados do OpenGameArt:
+#### Sprites retirados do OpenGameArt por arikel:
+https://opengameart.org/users/arikel
 
 ![alt](https://github.com/Neyuriki/TopDown-Movement/blob/main/Assets/Sprites/Player/Player%20run%20up.png)
 
